@@ -1,0 +1,1 @@
+Solutions to Project Euler problems - excercising working knowledge in javascript.
